@@ -1,0 +1,40 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+set int a
+set int b
+
+a+b
+
+// Exercise 2: Check if a Number is Even or Odd
+
+set int a
+
+a divided by 2, if modulus is greater than 0 = odd, otherwise even
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+set int a
+set int b
+set int c
+set int d
+set int e
+
+set int avg average ( Sum(a:e) )
+set int minrange min range a:e
+set int maxrange max range a:e
+
+display avg
+display minrange maxrange
+
+
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(Your pseudocode here)
+
+-- END --
